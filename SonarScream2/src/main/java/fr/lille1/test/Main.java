@@ -1,3 +1,4 @@
+package fr.lille1.test;
 
 public class Main {
 	private int variable;
